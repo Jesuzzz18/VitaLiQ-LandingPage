@@ -45,3 +45,9 @@ La solucion esta dirigida a **jovenes universitarios y profesionales** que busca
 - **Git / GitHub** – Control de versiones y flujo de trabajo en equipo  
 - **WebStorm** – Entorno de desarrollo
  
+## Licencia
+Este proyecto es de uso **académico**, desarrollado por el equipo VitaLiQ con fines de aprendizaje en desarrollo web.
+
+---
+
+<p align="center">© 2025 Equipo VitaLiq – Todos los derechos reservados.</p>
