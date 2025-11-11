@@ -10,7 +10,8 @@ La pagina aplica buenas practicas de desarrollo web, integrando **HTML5**,**CSS*
 ----
 
 ## Autores del Proyecto
-**Equipo de desarrollo - VitaliQ
+**Equipo de desarrollo-VitaliQ**
+
 - Cardenas Hidalgo Gabriela Paz
 - Leguia Sobia, Sebastian Rodrigo
 - Mamani Vilva Alan Jaivi
