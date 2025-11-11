@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/Jesuzzz18/VitaLiQ-LandingPage/blob/main/VITALIQ.png?raw=true" alt="Logo VitaLiq" width="220">
 </p>
+
 # VitaLiQ - Landing Page
 
 ## Descripcion General 
