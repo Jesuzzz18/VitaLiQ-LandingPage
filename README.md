@@ -50,4 +50,4 @@ Este proyecto es de uso **académico**, desarrollado por el equipo VitaLiQ con f
 
 ---
 
-<p align="center">© 2025 Equipo VitaLiq – Todos los derechos reservados.</p>
+<p align="center">© 2025 Equipo VitaLiQ – Todos los derechos reservados.</p>
