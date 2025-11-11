@@ -34,7 +34,10 @@ La solucion esta dirigida a **jovenes universitarios y profesionales** que busca
  
 ----
 
-
-
-
+## Herramientas Utilizadas 
+- **HTML5** – Estructura y contenido de la página
+- **CSS** – Estilos visuales, diseño adaptable y animaciones
+- **JavaScript** – Interactividad y validaciones
+- **Git / GitHub** – Control de versiones y flujo de trabajo en equipo  
+- **WebStorm** – Entorno de desarrollo
  
