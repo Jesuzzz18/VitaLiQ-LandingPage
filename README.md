@@ -1,4 +1,4 @@
-# VitaLiQ-LandingPage
+# VitaLiQ - Landing Page
 
 ## Descripcion General 
 **VitaliQ** 
